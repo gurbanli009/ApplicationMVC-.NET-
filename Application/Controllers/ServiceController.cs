@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication3.Controllers
+namespace Application.Controllers
 {
     public class ServiceController : Controller
     {

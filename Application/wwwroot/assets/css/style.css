@@ -273,7 +273,7 @@ nav.navbar.bootsnav .navbar-toggle {
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background: url(../images/welcome-hero/welcome-banner.jpg)no-repeat;
+    background: url(../images/welcome-hero/darkblue.png)no-repeat;
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -428,7 +428,7 @@ nav.navbar.bootsnav .navbar-toggle {
     padding: 55px 30px 60px;
     border-radius: 3px;
     margin-bottom: 30px;
-    border: 1px solid #dadfe9;
+    border: 1px solid antiquewhite;
     -webkit-transition: .3s linear;
     -moz-transition: .3s linear;
     -ms-transition: .3s linear;
@@ -438,12 +438,13 @@ nav.navbar.bootsnav .navbar-toggle {
 
 .single-service-icon {
     display: inline-block;
-    color: #50616c;
+    color: papayawhip;
 }
 
 .single-service-item h2 a {
     font-size: 20px;
     margin: 35px 0 20px;
+    color: antiquewhite;
 }
 
     .single-service-item h2 a span {
@@ -472,7 +473,7 @@ nav.navbar.bootsnav .navbar-toggle {
 }
 
 .single-service-item:hover .single-service-icon [class^="flaticon-"]:before, .single-service-item:hover .single-service-icon [class*=" flaticon-"]:before, .single-service-item:hover .single-service-icon [class^="flaticon-"]:after, .single-service-item:hover .single-service-icon [class*=" flaticon-"]:after {
-    color: #fff;
+    color: antiquewhite;
 }
 
 
